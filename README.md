@@ -1,6 +1,7 @@
 # cmsc491BlockchainFinalProject
-
+Food Supply Chain Application on IBM Hyperledger Fabric.
 This project is adapted from the Book: Blockchain by Example by Bellaj Badr; Xun Wu; Richard Horrocks 
+For details on setup and executing the code,refer to Chapter 10 - Blockchain By Example.
 
 Prerequisites:
 
